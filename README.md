@@ -27,3 +27,7 @@ automating the sdcard creation
 https://support.plex.tv/articles/212523657-how-do-i-create-the-disk-image-for-my-sd-card-or-usb-stick/
 
 https://www.microsoft.com/store/p/ubuntu/9nblggh4msv6
+
+
+https://github.com/retropie/retropie-setup/wiki/Supported-Systems
+https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database
